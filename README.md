@@ -2,24 +2,22 @@
 숙명여대 멋사 아기사자 김수민🦁
 
 <br><br>
-### 🦁 멋사 강의 수강 과제 🦁
+### 🦁 멋사 강의 수강 과제(Python) 🦁
 
 | 강의 내용 | 캡쳐 | 
 |:------:|:------|
-|`파이썬 코드라이언 강의 수강`|
-|<img width="604" alt="<img width="1014" alt="과제 끝!" src="https://user-images.githubusercontent.com/87849933/167230395-20b4a378-9092-4472-ac7f-0d574ff7d3f4.png">
-멋사_과제_파이썬기초_2" src="https://user-images.githubusercontent.com/87849933/167230377-0f3c564f-32b8-4065-a1d8-fb86c1c85588.png">
-<img width="950" alt="멋사_과제_파이썬기초_3" src="https://user-images.githubusercontent.com/87849933/167230379-3cd28380-5da0-4984-8068-30749cbd3da4.png">
-<img width="464" alt="멋사_과제_파이썬심화_2(오류발생)" src="https://user-images.githubusercontent.com/87849933/167230385-628e789d-d86c-40f7-a4f8-fc579a68fd49.png">
-<img width="443" alt="멋사_과제_파이썬심화_3" src="https://user-images.githubusercontent.com/87849933/167230388-17ab8954-ec8a-49d8-ba67-d277d618dd1e.png">
-<img width="436" alt="멋사_과제_파이썬심화_4" src="https://user-images.githubusercontent.com/87849933/167230390-2e7e0f11-f78f-4371-920f-fbc36a49f40e.png">
-<img width="1377" alt="멋사_과제_파이썬심화_5" src="https://user-images.githubusercontent.com/87849933/167230391-246b554f-10dd-437e-a9bd-768da662fb39.png">
-
-* 심화-2번째의 경우, 해당 사이트가 없어서 진행 하다가 오류가 발생했습니다. 아마 수업 이후 사이트 주소가 변경된 것으로 생각됩니다.|
+|`파이썬 코드라이언 강의 수강`|<img width="1014" alt="과제 끝!" src="https://user-images.githubusercontent.com/87849933/167230395-20b4a378-9092-4472-ac7f-0d574ff7d3f4.png">|
+|`파이썬기초_2`|<img width="604" alt="멋사_과제_파이썬기초_2" src="https://user-images.githubusercontent.com/87849933/167230377-0f3c564f-32b8-4065-a1d8-fb86c1c85588.png">|
+|`파이썬기초_3`|<img width="950" alt="멋사_과제_파이썬기초_3" src="https://user-images.githubusercontent.com/87849933/167230379-3cd28380-5da0-4984-8068-30749cbd3da4.png">|
+|`파이썬심화_2`|<img width="464" alt="멋사_과제_파이썬심화_2(오류발생)" src="https://user-images.githubusercontent.com/87849933/167230385-628e789d-d86c-40f7-a4f8-fc579a68fd49.png">|
+|`파이썬심화_3`|<img width="443" alt="멋사_과제_파이썬심화_3" src="https://user-images.githubusercontent.com/87849933/167230388-17ab8954-ec8a-49d8-ba67-d277d618dd1e.png">|
+|`파이썬심화_4`|<img width="436" alt="멋사_과제_파이썬심화_4" src="https://user-images.githubusercontent.com/87849933/167230390-2e7e0f11-f78f-4371-920f-fbc36a49f40e.png">|
+|`파이썬심화_5`|<img width="1377" alt="멋사_과제_파이썬심화_5" src="https://user-images.githubusercontent.com/87849933/167230391-246b554f-10dd-437e-a9bd-768da662fb39.png">|
+* 심화-2번째의 경우, 해당 사이트가 없어서 진행 하다가 오류가 발생했습니다. 아마 수업 촬영(?) 이후 사이트 주소가 변경된 것으로 생각됩니다.|
 
 
 <br><br>
-### 🦁 멋사 강의 수강 과제 🦁
+### 🦁 멋사 강의 수강 과제(HTML/CSS) 🦁
 
 | 강의 내용 | 캡쳐 | 
 |:------:|:------|
