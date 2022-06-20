@@ -5,8 +5,7 @@
 ### 🦁 멋사 강의 수강 과제(Javascript) 🦁
 | 강의 내용 | 캡쳐 | 
 |:------:|:------|
-|`코드라이언 일단 만드는 Javascript`|<img width="492" alt="Screen Shot 2022-06-21 at 12 01 59 AM" src="https://user-images.githubusercontent.com/87849933/174630878-70a4a6b4-32a1-4aef-b3c0-ddbf108b7305.png">
-|
+|`코드라이언 일단 만드는 Javascript`|<img width="492" alt="Screen Shot 2022-06-21 at 12 01 59 AM" src="https://user-images.githubusercontent.com/87849933/174630878-70a4a6b4-32a1-4aef-b3c0-ddbf108b7305.png">|
 |`프론트엔드 트랙 - Javascript`|<img width="492" alt="Screen Shot 2022-06-21 at 12 08 47 AM" src="https://user-images.githubusercontent.com/87849933/174631778-82275891-c4c5-4301-8c64-b4296daaa0d3.png">|
 
 
