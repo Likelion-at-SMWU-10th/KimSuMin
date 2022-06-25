@@ -1,6 +1,16 @@
 # KimSuMin
 숙명여대 멋사 아기사자 김수민🦁
 
+
+<br><br>
+### 🦁 멋사 강의 수강 과제(React) 🦁
+| 강의 내용 | 캡쳐 | 
+|:------:|:------|
+|`프론트엔드 트랙 - React (~Chapter 2)`|<img width="1038" alt="Screen Shot 2022-06-25 at 3 29 46 PM" src="https://user-images.githubusercontent.com/87849933/175761534-011de29f-25f2-403c-b821-6575e4f16d6f.png">|
+
+
+
+
 <br><br>
 ### 🦁 멋사 강의 수강 과제(Javascript) 🦁
 | 강의 내용 | 캡쳐 | 
