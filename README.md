@@ -8,6 +8,7 @@ git push 도 날렸는데 ...풀리퀘가 안됩ㄴㅣ다.....
 <img width="427" alt="Screen Shot 2022-07-16 at 4 35 55 PM" src="https://user-images.githubusercontent.com/87849933/179393412-bb777581-353f-405a-9b54-e61f8105b735.png">
 <img width="447" alt="Screen Shot 2022-07-16 at 4 35 49 PM" src="https://user-images.githubusercontent.com/87849933/179393415-c96dc9cc-b25b-4eec-ae5d-a01c6b4cbf02.png">
 
+<br><br>
 선택과제 말고.. 저는... 저희 서비스에,,,
 부트스트랩하고,, 라우터 이용해서 적용해봤습니다.....
 <img width="851" alt="Screen Shot 2022-07-17 at 7 10 04 PM" src="https://user-images.githubusercontent.com/87849933/179393550-ed5e8d28-6b35-4144-a810-1d043b567aa0.png">
